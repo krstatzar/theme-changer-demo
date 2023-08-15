@@ -53,7 +53,7 @@ button{
   color: white;
   border-radius: 10px;
   padding: 1rem;
-  font-size: 1.2rem;
+  font-size: 1.1rem;
 }
 
 button:hover{
@@ -158,3 +158,25 @@ h2 svg {
   }
 }
 
+
+
+@media only screen and (max-width: 600px) {
+ h1 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+.header{
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+
+button {
+  width: 240px;
+  display: block;
+  margin: 1rem auto;
+}
+
+}

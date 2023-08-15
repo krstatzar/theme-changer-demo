@@ -22,7 +22,7 @@ export function Content(){
                 {theme}
                 </h2>
 
-<img src="https://placehold.co/500x300" alt="image" />
+<img src="https://placehold.co/300x300" alt="image" />
             <p>Simple test project done with Vite + Ract.</p>
                <p> The idea was just to learn useContext hook and ended up adding few more bells and whistles
   </p>
