@@ -25,7 +25,7 @@ export function Content(){
 <img src="https://placehold.co/500x300" alt="image" />
             <p>Simple test project done with Vite + Ract. The idea was just to learn useContext hook and ended up adding few more bells and whistles
   </p>
-
+<p><a target="_blank" href="https://github.com/krstatzar/theme-changer-demo">GitHub</a></p>
         </div>
     )
 }
